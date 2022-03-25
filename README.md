@@ -18,4 +18,4 @@
    
   <h2> Publications <h2>
    
-   - [CEDR Page Test](https://www.cedr.us/working-papers)
+   - [CEDR Working Paper Link](https://www.cedr.us/_files/ugd/1394b9_82955cd5b86e4176a01b07e219f5888b.pdf)
